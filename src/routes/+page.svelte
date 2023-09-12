@@ -46,5 +46,6 @@
 	<p class="font-bold mb-2 text-gray-800 dark:text-gray-100 mt-5">
 		For a grand total of {total}xp. Congrats! =D
 	</p>
+
 </main>
 
