@@ -10,7 +10,6 @@
 	let total = 0;
 
 	$: total = watchtime * rt_wt + followage * rt_fw + subscribage * rt_sb;
-
 </script>
 
 <main>
